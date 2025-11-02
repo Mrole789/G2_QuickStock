@@ -12,7 +12,7 @@ This system helps small to medium-sized retail businesses in Ghana manage their 
 - Basic Sales Reporting
 
 ### Technology Stack
-- Java 8+
+- Java 7+
 - Java Swing (GUI)
 - File-based Data Storage
 - Object-Oriented Programming
