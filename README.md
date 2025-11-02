@@ -23,12 +23,13 @@ This system helps small to medium-sized retail businesses in Ghana manage their 
 3. Run the application: `java -cp src com.quickstock.Main`
 
 ## Group Members
-- [Name 1] - [Role]
-- [Name 2] - [Role]
-- [Name 3] - [Role]
+- Chima Kennedy Elorm - [Role]
+- Semenu Leticia - [Role]
+- Naa Amerley Adom  Laura - [Role]
+- Amihere Leticia - [Role]
 
 ## Case Study
-[Your chosen Ghanaian retail business]
+PrimeTech Electronics Ghana
 
 ## Documentation
 See the `docs/` folder for planning documents and design diagrams.
