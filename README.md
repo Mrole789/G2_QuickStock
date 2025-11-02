@@ -28,8 +28,5 @@ This system helps small to medium-sized retail businesses in Ghana manage their 
 - Naa Amerley Adom  Laura - [Role]
 - Amihere Leticia - [Role]
 
-#### Case Study
-PrimeTech Electronics Ghana
-
 ### Documentation
 See the `docs/` folder for planning documents and design diagrams.
