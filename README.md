@@ -22,7 +22,7 @@ This system helps small to medium-sized retail businesses in Ghana manage their 
 2. Compile the Java files: `javac src/com/quickstock/Main.java`
 3. Run the application: `java -cp src com.quickstock.Main`
 
-### Group Members
+### Project Members
 - Chima Kennedy Elorm - [Role]
 - Semenu Leticia - [Role]
 - Naa Amerley Adom  Laura - [Role]
