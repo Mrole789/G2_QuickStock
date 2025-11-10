@@ -23,10 +23,10 @@ This system helps small to medium-sized retail businesses in Ghana manage their 
 3. Run the application: `java -cp src com.quickstock.Main`
 
 ### Project Members
-- Chima Kennedy Elorm - [Role]
-- Semenu Leticia - [Role]
-- Naa Amerley Adom  Laura - [Role]
-- Amihere Leticia - [Role]
+- Chima Kennedy Elorm 
+- Semenu Leticia 
+- Naa Amerley Adom  Laura 
+- Amihere Leticia 
 
 ### Documentation
 See the `docs/` folder for planning documents and design diagrams.
