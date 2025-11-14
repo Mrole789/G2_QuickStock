@@ -6,7 +6,7 @@ A simple Java based inventory and sales management system for retail businesses.
 This system helps small to medium-sized retail businesses in Ghana manage their products and inventory, process sales, and generate basic reports efficiently.
 
 ### Features
-- Product Management (Add, View, Update, Delete)
+- Product Management (Add, View, Update)
 - Sales Processing with Receipt Generation
 - Real-time Inventory Tracking and management
 - Basic Sales Reporting
