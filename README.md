@@ -23,4 +23,8 @@ This system helps small to medium-sized retail businesses in Ghana manage their 
 - Naa Amerley Adom  Laura 
 - Amihere Leticia 
 
-### 
+### G2 QuickStock:  
+• /src — Source code (.java file)  
+• /jar — Executable (.jar) file   
+• /logo - Application logo (must be in same directory as Application)  
+• /docs — Design diagram and documentation
