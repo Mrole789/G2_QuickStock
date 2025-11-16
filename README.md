@@ -27,4 +27,4 @@ This system helps small to medium-sized retail businesses in Ghana manage their 
 • /src — Source code (.java file)  
 • /jar — Executable (.jar) file   
 • /logo - Application logo (must be in same directory as Application)  
-• /docs — Design diagram and documentation
+• /docs — Design diagram and documentations
