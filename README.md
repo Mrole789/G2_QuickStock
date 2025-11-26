@@ -17,12 +17,6 @@ This system helps small to medium-sized retail businesses in Ghana manage their 
 - File-based Data Storage
 - Object-Oriented Programming
 
-### Project Members
-- @Mrole789  
-- @enamleticia  
-- @adomlaura184-byte  
-- @amihereleticia18-bit
-
 ### G2 QuickStock:  
 • /src — Source code (.java file)  
 • /jar — Executable (.jar) file   
