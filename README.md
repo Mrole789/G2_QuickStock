@@ -18,10 +18,10 @@ This system helps small to medium-sized retail businesses in Ghana manage their 
 - Object-Oriented Programming
 
 ### Project Members
-- Chima Kennedy Elorm 
-- Semenu Leticia 
-- Naa Amerley Adom  Laura 
-- Amihere Leticia 
+- @Mrole789  
+- @enamleticia  
+- @adomlaura184-byte  
+- @amihereleticia18-bit
 
 ### G2 QuickStock:  
 • /src — Source code (.java file)  
