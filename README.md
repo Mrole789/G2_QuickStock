@@ -20,6 +20,6 @@ This system helps small to medium-sized retail businesses in Ghana manage their 
 ### G2 QuickStock:  
 • /src — Source code (.java file)  
 • /jar — Executable (.jar) file   
-• /logo - Application logo (must be in same directory as Application/Executable)  
+• /logo - Application logo (must be in same directory as Application/Executable file)  
 • /docs — Design diagram and documentations  
 • /README.md - This documentation file
