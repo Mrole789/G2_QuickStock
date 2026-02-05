@@ -23,3 +23,6 @@ This system helps small to medium-sized retail businesses in Ghana manage their 
 • /logo - Application logo (must be in same directory as Application/Executable file)  
 • /docs — Design diagram and documentations  
 • /README.md - This documentation file
+
+### License  
+Licensed under [MIT](LICENSE).
