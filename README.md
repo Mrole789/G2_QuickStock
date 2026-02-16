@@ -24,5 +24,22 @@ This system helps small to medium-sized retail businesses in Ghana manage their 
 • /docs — Design diagram and documentations  
 • /README.md - This documentation file
 
+###Installation Instructions  
+Prerequisites  
+· Java Runtime Environment (JRE) 8 or higher  
+· Git (optional)
+
+Quick Start  
+1. Download the repo  
+   · Click the green "Code" button  
+   · Select "Download ZIP"  
+   · Extract the ZIP file to your preferred location  
+2. Run the application  
+   · Double-click the JAR file  
+   · Or via terminal/command prompt:
+     ```bash
+     java -jar G2-Quickstock.jar
+     ```
+
 ### License  
 Licensed under [MIT](LICENSE).
