@@ -24,7 +24,7 @@ This system helps small to medium-sized retail businesses in Ghana manage their 
 • /docs — Design diagram and documentations  
 • /README.md - This documentation file
 
-###Installation Instructions  
+### Installation Instructions  
 Prerequisites  
 · Java Runtime Environment (JRE) 8 or higher  
 · Git (optional)
