@@ -27,7 +27,6 @@ This system helps small to medium-sized retail businesses in Ghana manage their 
 ### Installation Instructions  
 Prerequisites  
 · Java Runtime Environment (JRE) 8 or higher  
-· Git (optional)
 
 Quick Start  
 1. Download the repo  
