@@ -36,10 +36,6 @@ Quick Start
    · Extract the ZIP file to your preferred location  
 2. Run the application  
    · Double-click the JAR file  
-   · Or via terminal/command prompt:
-     ```bash
-     java -jar G2-Quickstock.jar
-     ```
-
+   
 ### License  
 Licensed under [MIT](LICENSE).
