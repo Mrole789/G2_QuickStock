@@ -30,7 +30,7 @@ Prerequisites
 
 Quick Start  
 1. Download the repo  
-   · Click the green "Code" button  
+   · Click the "Code" button  
    · Select "Download ZIP"  
    · Extract the ZIP file to your preferred location  
 2. Run the application  
